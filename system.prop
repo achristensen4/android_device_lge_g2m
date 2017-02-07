@@ -1,5 +1,5 @@
 telephony.lteOnGsmDevice=0
-ro.telephony.default_network=3
+ro.telephony.default_network=4
 
 ro.sf.lcd_density=240
 
@@ -14,6 +14,4 @@ ro.qualcomm.sensors.smd=true
 ro.qualcomm.sensors.game_rv=false
 ro.qualcomm.sensors.georv=true
 ro.qc.sensors.smgr_mag_cal_en=false
-ro.qc.sensors.max_grav_no_gyro=50
-ro.qc.sensors.max_geomag_rotvec=50
 
